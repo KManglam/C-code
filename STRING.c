@@ -45,6 +45,6 @@ printf("Lowercase of HELLO is: %s\n", strlwr(k));
 printf("Reverse A is: %s\n", strrev(A));
 
 return 0;
-
+  
 }
 
