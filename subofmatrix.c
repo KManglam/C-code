@@ -23,8 +23,6 @@ printf("Substraction of Two matrix: \n");
 
 }
 }	
-
-
 return 0;
 }
 
