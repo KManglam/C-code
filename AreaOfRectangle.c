@@ -4,7 +4,7 @@ int main(){
 	float length,breadth,Area, Perimeter;
 	Perimeter=2*(length+breadth);
 	Area=length*breadth;
-	printf("---Area of Rectangle--- \n");
+	printf("----Area of Rectangle---- \n");
 	printf("Enter the Length: ");
 	scanf("%f",&length);
 	printf("Enter the Breadth: ");
