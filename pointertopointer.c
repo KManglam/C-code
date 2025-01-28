@@ -20,7 +20,6 @@ printf("Value of i = %d\n",*j);
 printf("Value of i = %d\n",**k);
 
 
-
 return 0;
 }
 
