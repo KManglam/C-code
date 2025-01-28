@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+	
 	float length,breadth,Area, Perimeter;
 	Perimeter=2*(length+breadth);
 	Area=length*breadth;
@@ -13,4 +14,5 @@ int main(){
 	printf("Area of Rectangle: %.2f\n",Area);
 	printf("Perimeter of Rectangle: %f\n",Perimeter);
 	return 0;
+	
 }
