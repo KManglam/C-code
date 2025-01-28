@@ -2,7 +2,6 @@
 #include<stdlib.h>
 
 
-
 int main(){
 
 int arr[10], i, sum=0;
@@ -18,6 +17,7 @@ sum+=arr[i];
 }
 printf("%d", sum);
 
+	
 return 0; 
 }
 
