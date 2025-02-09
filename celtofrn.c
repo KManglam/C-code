@@ -9,5 +9,6 @@ scanf("%f",&temp);
 temp=temp*9/5+32;
 printf("Temperature in Fahrenite is: %.2ff",temp);
 return 0;
+  
 }
 
