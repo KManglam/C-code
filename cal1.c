@@ -2,7 +2,7 @@ int Add(int a,int b){
 	int sum=a+b;
 	printf("ADDITION:%d\n",sum);
 	return 0;
-}
+} 
 int Sub(int a,int b){
 	int sub=a-b;
 	return printf("SUBSTRACTION:%d\n",sub);
@@ -12,7 +12,6 @@ int Mult(int a,int b){
 	return printf("MULTIPLICATION:%d\n",mult);
 }
 int Div(int a, int b){
-	
 	if(b==0||b>a){
 	printf("DIVISION: Error");
 }else
