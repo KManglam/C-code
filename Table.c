@@ -1,7 +1,5 @@
 #include<stdio.h>
 int main(){
-
-	
 	int a,b,i;
 	printf("Table\n");
 	printf("Enter Number: ");
