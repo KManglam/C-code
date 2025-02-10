@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 int main(){
-
 int a;
 printf("---Check Even or Odd Numbers:---\n");
 printf("Enter the Number: ");
