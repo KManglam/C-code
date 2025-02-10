@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
 int main() {
 int a[2][3],b[2][3],c[2][3],i,j;
 	printf("Enter the First Matrix(6 elements): \n");
