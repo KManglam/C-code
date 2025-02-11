@@ -3,6 +3,7 @@
 //Sort Integer Element in Ascending order
 int main() {
 
+	
 int arr[5],i,j,temp;
 printf("Enter 5 Elements: ");
 	for (i=0;i<5;i++){
