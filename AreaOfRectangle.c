@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+	
 	float length,breadth,Area, Perimeter;
 	Perimeter=2*(length+breadth);
 	Area=length*breadth;
