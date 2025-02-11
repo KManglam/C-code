@@ -5,6 +5,7 @@
 
 
 
+
 int main() {
 //Initializtion 
 char c[] = "Kumar";
