@@ -13,7 +13,6 @@ result+=arr[i];
 return result; 
 }
 
-
 int main(){
 int a[10],i;
 printf("Enter 10 elements: \n");
