@@ -2,6 +2,7 @@
 #include<stdlib.h>
 
 int main() {
+	
 int a[3][3],b[3][3],c[3][3],i,j;
 printf("Enter the First matrix(9 elements):\n");
 	for(i=0;i<3;i++){	
