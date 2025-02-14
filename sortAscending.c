@@ -2,7 +2,6 @@
 #include<stdlib.h>
 //Sort Integer Element in Ascending order
 int main() {
-	
 
 int arr[5],i,j,temp;
 printf("Enter 5 Elements: ");
