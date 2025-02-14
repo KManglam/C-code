@@ -22,6 +22,7 @@ printf("Substraction of Two matrix: \n");
 			c[i][j]=a[i][j]-b[i][j];
 				printf("%d",c[i][j]);
 
+			
 }
 }	
 return 0;
