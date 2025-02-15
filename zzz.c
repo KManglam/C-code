@@ -2,6 +2,7 @@
 #include<stdlib.h>
 
 
+
 int main(){
 
 int arr[10], i, sum=0;
